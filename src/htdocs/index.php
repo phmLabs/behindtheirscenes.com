@@ -1,1 +1,1 @@
-Behind Their Scenes . com
+<img src="images/logo.png"/>
