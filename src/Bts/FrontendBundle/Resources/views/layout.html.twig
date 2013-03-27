@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>{% block title 'Behindtheirscenes.com' %}</title>
+</head
+<body>
+
+	<img src="{{ asset('bundles/btsfrontend/images/logo.png') }}" />
+	<div style="clear: both"></div>
+
+    <div class="block">
+        {% block content %}{% endblock %}
+    </div>
+
+</body>
+</html>
