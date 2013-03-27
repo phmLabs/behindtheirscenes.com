@@ -1,11 +1,13 @@
-web/bundles/
-web/js/
-web/css/
-app/cache/*
-app/logs/*
-vendor/
-app/app.sqlite
-/bin/
-.buildpath
-.project
-.settings
+# Bootstrap
+app/bootstrap*
+
+# Symfony directories
+vendor/*
+*/logs/*
+*/cache/*
+web/uploads/*
+web/bundles/*
+
+# Configuration files
+app/config/parameters.ini
+app/config/parameters.yml
