@@ -1,0 +1,7 @@
+parameters:
+#    bts_frontend.example.class: Bts\FrontendBundle\Example
+
+services:
+#    bts_frontend.example:
+#        class: %bts_frontend.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

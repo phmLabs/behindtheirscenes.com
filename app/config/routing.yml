@@ -1,0 +1,4 @@
+bts_frontend:
+    resource: "@BtsFrontendBundle/Resources/config/routing.yml"
+    prefix:   /
+
